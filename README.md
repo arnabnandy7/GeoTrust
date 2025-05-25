@@ -1,1 +1,3 @@
-<!-- GitAds-Verify: C5R3CLWCF4F9AYJSN8YJTBRHA13FISDZ -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/geotrust@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/geotrust@github)
+
